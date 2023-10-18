@@ -1,6 +1,6 @@
 {
   "name": "@jinba-ittai/adapter",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "Typescript library to adapt the responses and requests of a method.",
   "main": "dist/main.js",
   "types": "dist/types/main.d.ts",
