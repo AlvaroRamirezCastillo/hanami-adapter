@@ -1,2 +1,2 @@
-export { adapterAsyncResponse } from './adapter-async-response';
-export { adapterResponse } from './adapter-response';
+export { adapterAsync } from './adapter-async.decorator';
+export { adapter } from './adapter.decorator';
